@@ -44,6 +44,7 @@ public class Main {
 				break;
 			}
 		}
+		rd.close();
 		sc.close();
 	}
 }
